@@ -1,0 +1,10 @@
+.delete {
+	color: red;
+	margin-left: 8px;
+	cursor: pointer;
+}
+
+.comment {
+	font-size: 80%;
+	color: #6c6c6c;
+}
